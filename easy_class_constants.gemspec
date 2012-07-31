@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["cp@bookrenter.com"]
   gem.description   = %q{Gem adds class methods to create readable, writable and accessible constants.}
   gem.summary       = %q{Gem adds class methods to create readable, writable and accessible constants.}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/bkr/easy_class_constants"
   
   gem.add_dependency('rails', '> 0')
   gem.add_development_dependency('mocha', '> 0')
